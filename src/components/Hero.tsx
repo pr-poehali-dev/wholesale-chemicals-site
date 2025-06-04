@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="bg-gradient-to-br from-blue-600 to-blue-800 text-white py-20">
       <div className="container mx-auto px-4 text-center">
-        <h1 className="text-5xl font-bold mb-6">ХимТрейд</h1>
+        <h1 className="text-5xl font-bold mb-6">ХИМПРОМ</h1>
         <p className="text-xl mb-8 max-w-3xl mx-auto opacity-90">
           Ведущий поставщик химического сырья для шинных заводов и предприятий
           резинотехнических изделий. Более 15 лет на рынке оптовых поставок.
